@@ -9,9 +9,9 @@ public class ChangeScene : MonoBehaviour
     {
         SceneManager.LoadScene("02. Map");
     }
-
-    public void change_MainScene()
+    
+    public void change_LoadingScene()
     {
-        SceneManager.LoadScene("03. Main");
+        SceneManager.LoadScene("03. Loading");
     }
 }
