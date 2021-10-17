@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - boss
+  - Aplanet
+  - outline
+  - Bplanet
+  - boss1
+  - boss2
+  - player
+  - star
   layers:
   - Default
   - TransparentFX

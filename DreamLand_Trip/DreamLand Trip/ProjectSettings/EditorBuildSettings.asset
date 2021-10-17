@@ -10,14 +10,8 @@ EditorBuildSettings:
     guid: 0672ebb4a8b28de4b9b5c032640933df
   - enabled: 1
     path: Assets/01. Scenes/02. Map.unity
-    guid: deaedb25c50240c40a04a013ca4cc142
+    guid: 46298280dff55e64b8b3f8443bacc6b1
   - enabled: 1
-    path: Assets/01. Scenes/03. Main.unity
-    guid: 5dcd5dab6b5b0464ea1e514abc15ef53
-  - enabled: 1
-    path: Assets/01. Scenes/04. Ending.unity
+    path: Assets/01. Scenes/03. Ending.unity
     guid: 22ab840baca94c84ab9e8a5dffa74686
-  - enabled: 1
-    path: Assets/01. Scenes/05. Loading.unity
-    guid: 36facb8db9477fd439f711b9a9c12548
   m_configObjects: {}

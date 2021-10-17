@@ -62,9 +62,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\03. Script\CameraResoultion.cs" />
+    <Compile Include="Assets\03. Script\CameraResolution.cs" />
     <Compile Include="Assets\03. Script\ChangeScene.cs" />
-    <Compile Include="Assets\03. Script\LoadingScene.cs" />
+    <Compile Include="Assets\03. Script\Planet.cs" />
+    <Compile Include="Assets\03. Script\Player.cs" />
+    <Compile Include="Assets\03. Script\Result.cs" />
+    <Compile Include="Assets\03. Script\Sound.cs" />
+    <Compile Include="Assets\03. Script\Stage.cs" />
+    <Compile Include="Assets\03. Script\Touching.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Program Files/Unity/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
