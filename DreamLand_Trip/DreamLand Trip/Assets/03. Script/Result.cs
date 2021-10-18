@@ -58,6 +58,10 @@ public class Result : MonoBehaviour
                 Limage.sprite = level[8];
                 Level();
                 break;
+            case 9:
+                Limage.sprite = level[9];
+                Level();
+                break;
         }
     }
 

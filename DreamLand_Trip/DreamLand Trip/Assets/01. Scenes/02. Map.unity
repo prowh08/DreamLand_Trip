@@ -3449,7 +3449,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: e5fbef8120f9bdc4fb3759469cd18cc7, type: 3}
   - {fileID: 21300000, guid: a3bd2e960dcd7d0498ae12ae761e1755, type: 3}
   - {fileID: 21300000, guid: ac4945c59d3d4a84098091e6858d7a7f, type: 3}
-  - {fileID: 21300000, guid: ac4945c59d3d4a84098091e6858d7a7f, type: 3}
+  - {fileID: 21300000, guid: a1c43b0cbbd3f714abc185e5f98c31e6, type: 3}
   star:
   - {fileID: 2145924398}
   - {fileID: 1477791361}
@@ -4016,18 +4016,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1305829141}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1305829138}
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1305829141
 MonoBehaviour:
   m_ObjectHideFlags: 0
