@@ -11,7 +11,8 @@ public class Loading : MonoBehaviour
     }
     IEnumerator LoadScene()
     {
-        yield return null;
+        yield return new WaitForSeconds(1.0f);
+
         AsyncOperation operation = SceneManager.LoadSceneAsync("02. Map");
         operation.allowSceneActivation = true;
 

@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 1
-  controlID: 82
+  controlID: 17
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 221}
   m_MaxSize: {x: 16006, y: 4021}
   vertical: 0
-  controlID: 83
+  controlID: 18
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,7 +306,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c4f1ffffd8f1ffffdaf1ffffdef1ffffe2f1ffff92f2ffffa6f2ffffa8f2ffffacf2ffffb0f2fffff4f2ffff08f3ffffa8f3ffffb0f3ffffbef3ffff6afbffff5c35000046670000
+      m_ExpandedIDs: 80bfffff94bfffff96bfffffa6c5ffffaac5ffffe2c5fffff6c5ffff92c6ffffacccffffb0ccffffb4cdffffc8cdffff64ceffff7ed4ffff82d4ffff1cd5ffff30d5ffffccd5ffffe6dbffffeadbffff82dcffff96dcffff36ddffff54e3ffff5ce3ffff82e3ffffdee4fffff0e4ffff8ee5ffffa2e5ffff42e6ffff60ecffff68ecffff0aedffff1eedffffbaedffffd4f3ffffd8f3ffffb8f4ffff6afbffff9e3d0000d63d0000e63d0000004b0000104b00004e4b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -458,9 +458,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 999.21173, y: 1158.9534, z: -2581.9302}
+    m_Target: {x: 612.5547, y: 1126.2988, z: -2607.375}
     speed: 2
-    m_Value: {x: 999.21173, y: 1158.9534, z: -2581.9302}
+    m_Value: {x: 612.5547, y: 1126.2988, z: -2607.375}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -510,9 +510,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 942.03766
+    m_Target: 622.4416
     speed: 2
-    m_Value: 942.03766
+    m_Value: 622.4416
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -655,7 +655,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 192
+  m_LastVerticalScrollValue: 0
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -721,19 +721,19 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/03. Script
+    - Assets/01. Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/03. Script
+  - Assets/01. Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\github\Dreamland_Trip\DreamLand_Trip\DreamLand Trip
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 26}
-    m_SelectedIDs: 243d0000
-    m_LastClickedID: 15652
+    m_SelectedIDs: 203d0000
+    m_LastClickedID: 15648
     m_ExpandedIDs: 00000000143d0000163d0000183d00001a3d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
